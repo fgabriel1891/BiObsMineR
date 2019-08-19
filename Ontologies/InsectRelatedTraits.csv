@@ -1,0 +1,339 @@
+Function,FunctionType,FunctionClass,Traits,Term
+Dispersal,Aerial dispersal,Foraging distance,Presence/absence wings,wing
+Dispersal,Aerial dispersal,Foraging distance,ballooning,ballooni
+Dispersal,Aerial dispersal,Foraging distance,Migratory statue,migra
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,range
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,dispers
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,fly
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,flew
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,flown
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,air
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,glide
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,soar
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,hover
+Dispersal,Aerial dispersal,Foraging distance,Dispersal range,hang
+Dispersal,Aerial dispersal,Foraging distance,Inter-tegular distance,tegula
+Dispersal,Aerial dispersal,Foraging distance,Mobility,femur
+Dispersal,Aerial dispersal,Foraging distance,Mobility,move
+Dispersal,Aerial dispersal,Foraging distance,Mobility,walk
+Dispersal,Aerial dispersal,Foraging distance,Mobility,distanc
+Dispersal,Aerial dispersal,Foraging distance,Mobility,foragin
+Dispersal,Aerial dispersal,Foraging distance,Wing loading ,wing
+Dispersal,Aerial dispersal,Foraging distance,Wing loading ,weight
+Dispersal,Aerial dispersal,Foraging distance,Wing loading ,area
+Dispersal,Aerial dispersal,Foraging distance,Length of the nervures of wings,nerv
+Dispersal,Aerial dispersal,Foraging distance,Length of the nervures of wings,nerva
+Dispersal,Aerial dispersal,Foraging distance,Length of the nervures of wings,nervatur
+Dispersal,Aerial dispersal,Foraging distance,Wing area,area
+Dispersal,Aerial dispersal,Foraging distance,Wing area,surfac
+Dispersal,Aerial dispersal,Foraging distance,Wing area,wing
+Dispersal,Aerial dispersal,Foraging distance,Wing shape,wing
+Dispersal,Aerial dispersal,Foraging distance,Wing shape,shap
+Dispersal,Aerial dispersal,Energy allocated to dispersal,Wing length,length
+Dispersal,Aerial dispersal,Energy allocated to dispersal,Wing length,wing
+Dispersal,Aerial dispersal,Energy allocated to dispersal,Wing length,size
+Dispersal,Aerial dispersal,Energy allocated to dispersal,Wing length,centroid
+Dispersal,Aerial dispersal,Foraging distance,Wing shape,size
+Dispersal,Aerial dispersal,Foraging distance,Wing shape,centroid
+Dispersal,Ground dispersal,Foraging speed,Appendage and eye development,eye
+Dispersal,Ground dispersal,Foraging speed,Appendage and eye development,number of eyes
+Dispersal,Ground dispersal,Foraging speed,Walking activity level,walk
+Dispersal,Ground dispersal,Foraging speed,Walking activity level,speed
+Dispersal,Ground dispersal,Foraging speed,Femoral lenght,femur
+Dispersal,Ground dispersal,Foraging speed,Femoral lenght,femoral
+Dispersal,Ground dispersal,Foraging speed,Length of whole leg,leg
+Dispersal,Ground dispersal,Climbing ability,Tarsal lenght ,tars
+Dispersal,Ground dispersal,Vertical movement,Femoral width,femoral
+Dispersal,Ground dispersal,Vertical movement,Femoral width,femur
+Dispersal,Ground dispersal,Vertical movement,Metatrochanter length,metatrochant
+Dispersal,Ground dispersal,Vertical movement,Metatrochanter length,trochant
+Dispersal,Hydrochory,Hydrochory,Hydrochory,Hydrochor
+Abiotic filters,Habitat used,Habitat structure,Position of nest,Nest
+Abiotic filters,Habitat used,Habitat structure,Head width,head
+Abiotic filters,Habitat used,Habitat structure,eye position,eye
+Abiotic filters,Habitat used,Habitat structure,body width,body
+Abiotic filters,Habitat used,Vertical distribution,Number of eyes,eyes
+Abiotic filters,Habitat used,Vertical distribution,Life form,life
+Abiotic filters,Habitat used,Vertical distribution,Life form,form
+Abiotic filters,Habitat used,Vertical distribution,Trichobothria,Trichobothria
+Abiotic filters,Habitat used,Microhabitat,Number of claws,claw
+Abiotic filters,Habitat used,Microhabitat,Sensillus type/length,Sensill
+Abiotic filters,Habitat used,Microhabitat,Notogaster length,Notogast
+Abiotic filters,Habitat used,Microhabitat,Adhesive structures,adhesiv
+Abiotic filters,Habitat used,Microhabitat,Adhesive structures,silk
+Abiotic filters,Habitat used,Microhabitat,Adhesive structures,stick
+Abiotic filters,Habitat used,Microhabitat,Body compression,Body
+Abiotic filters,Habitat used,Microhabitat,Body compression,compress
+Abiotic filters,Habitat used,Microhabitat,Claw length,claw
+Abiotic filters,Habitat used,Habitat complexity,Tibial length ,Tibia
+Abiotic filters,Habitat used,Soil property,Pronotum size,Pronotum
+Abiotic filters,Habitat used,Soil property,Front leg area,Front
+Abiotic filters,Habitat used,Soil property,Front leg area,Leg
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Oviposition place,Oviposit
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Oviposition place,Ovoposit
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Pilosity,Pilosit
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Pilosity,Hairin
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Hair length,Hair
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Hair length,length
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Surface structure,carapace
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Surface structure,quitin
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Sclerotisation level,sclerot
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Water loss rate,water
+Abiotic filters,Resistance and tolerance,Desiccation resistance,Water loss rate,dessecat
+Abiotic filters,Resistance and tolerance,Protection against UV,Body pigmentation,Melanizat
+Abiotic filters,Resistance and tolerance,Protection against UV,Body pigmentation,Melanin
+Abiotic filters,Resistance and tolerance,Protection against UV,Body pigmentation,colour
+Abiotic filters,Resistance and tolerance,Protection against UV,Body pigmentation,color
+Abiotic filters,Resistance and tolerance,Flood tolerance,Respiration system,respirator
+Abiotic filters,Resistance and tolerance,Flood tolerance,Respiration system,gills
+Abiotic filters,Resistance and tolerance,Flood tolerance,Respiration system,air
+Abiotic filters,Resistance and tolerance,Flood tolerance,Respiration system,exchang
+Abiotic filters,Resistance and tolerance,Flood tolerance,Respiration system,gas
+Abiotic filters,Resistance and tolerance,Survival to disturbance,Sheltering behaviour,shelter
+Abiotic filters,Resistance and tolerance,Survival to termporary difficul conditions,Foraging thermal limit,therma
+Biotic filters,Competition,Phenology,Overwintering stage,hivernat
+Biotic filters,Competition,Phenology,Overwintering stage,winter
+Biotic filters,Competition,Phenology,Breeding season,season
+Biotic filters,Competition,Phenology,Breeding season,breeding
+Biotic filters,Competition,Phenology,Foraging period,foragin
+Biotic filters,Competition,Phenology,Foraging period,eat
+Biotic filters,Competition,Phenology,Foraging period,consum
+Biotic filters,Competition,Phenology,Activity period,day
+Biotic filters,Competition,Phenology,Activity period,night
+Biotic filters,Competition,Phenology,Activity period,noon
+Biotic filters,Competition,Phenology,Activity period,nocturn
+Biotic filters,Competition,Phenology,Activity period,diurn
+Biotic filters,Competition,Phenology,Activity period,sun
+Biotic filters,Competition,Phenology,Activity period,moon
+Biotic filters,Competition,Phenology,Adult emergence period,emerg
+Biotic filters,Competition,Phenology,Hatching period,hatch
+Biotic filters,Competition,Phenology,Pupation period,pupae
+Biotic filters,Competition,Phenology,Pupation period,developmet
+Biotic filters,Competition,Phenology,Pupation period,metamorph
+Biotic filters,Competition,Phenology,Female maturation time,maturat
+Biotic filters,Competition,Phenology,Female maturation time,developmen
+Biotic filters,Competition,Phenology,Female maturation time,femal
+Biotic filters,Competition,Fecundity,Volitinism,generation
+Biotic filters,Competition,Fecundity,Volitinism,brood
+Biotic filters,Competition,Fecundity,Volitinism,offsprin
+Biotic filters,Competition,Fecundity,Sexual vs parthenogenesis,sexua
+Biotic filters,Competition,Fecundity,Sexual vs parthenogenesis,parthenoge
+Biotic filters,Competition,Fecundity,Number of eggs,hatch
+Biotic filters,Competition,Fecundity,Number of eggs,egg
+Biotic filters,Competition,Fecundity,Number of ovarioles,ovariol
+Biotic filters,Competition,Fecundity,Fecundity,fecundit
+Biotic filters,Competition,Fecundity,Number of brood,brood
+Biotic filters,Competition,Fecundity,Number of ripe eggs,ripe
+Biotic filters,Competition,Fecundity,r/K strategy,r
+Biotic filters,Competition,Fecundity,r/K strategy,K
+Biotic filters,Competition,Niche separation,Circadian activity,Circad
+Biotic filters,Competition,Growth rate of the population,Life cycle length,cycle
+Biotic filters,Competition,Growth rate of the population,Life cycle length,metamorph
+Biotic filters,Competition,Growth rate of the population,Life cycle length,pupae
+Biotic filters,Competition,Growth rate of the population,Life cycle length,nymph
+Biotic filters,Competition,Growth rate of the population,Time to adult stage ,adult
+Biotic filters,Competition,Growth rate of the population,Time to adult stage ,metamorph
+Biotic filters,Competition,Growth rate of the population,Time to adult stage ,coccon
+Biotic filters,Resource characteristics,Growth rate of the population,Life cycle length,life
+Biotic filters,Resource characteristics,Growth rate of the population,Time to adult stage,generation
+Biotic filters,Resource characteristics,Growth rate of the population,Time to adult stage,adult
+Biotic filters,Resource characteristics,Growth rate of the population,Time to adult stage,coccon
+Biotic filters,Resource characteristics,Growth rate of the population,Generation time,generation 
+Biotic filters,Resource characteristics,Growth rate of the population,Generation time,time
+Biotic filters,Resource characteristics,Growth rate of the population,Generation time,development
+Biotic filters,Resource characteristics,Growth rate of the population,Generation time,stage
+Biotic filters,Resource characteristics,Growth rate of the population,Larval growth rate,larvae
+Biotic filters,Resource characteristics,Growth rate of the population,Larval growth rate,cocoon
+Biotic filters,Resource characteristics,Growth rate of the population,Maternal care,parental
+Biotic filters,Resource characteristics,Growth rate of the population,Number of larval stages,larvae
+Biotic filters,Resource characteristics,Growth rate of the population,Number of larval stages,stages
+Biotic filters,Resource characteristics,Growth rate of the population,Number of larval stages,nymph
+Biotic filters,Resource characteristics,Growth rate of the population,Number of larval stages,holomet
+Biotic filters,Resource characteristics,Growth rate of the population,Number of larval stages,hemimet
+Biotic filters,Resource characteristics,Toughness,Head width,head
+Biotic filters,Resource characteristics,Toughness,Head width,width
+Biotic filters,Resource characteristics,Toughness,Head length,head
+Biotic filters,Resource characteristics,Toughness,Head length,length
+Biotic filters,Resource characteristics,Toughness,Mandible width,mandible
+Biotic filters,Resource characteristics,Toughness,Mandible width,width
+Biotic filters,Resource characteristics,Size,Mandible length,mandible
+Biotic filters,Resource characteristics,Size,Mandible length,length
+Biotic filters,Resource characteristics,Size,Tongue/ proboscis length*,tongue
+Biotic filters,Resource characteristics,Size,Tongue/ proboscis length*,proboscis
+Biotic filters,Resource characteristics,Size,Tongue/ proboscis length*,probosc
+Biotic filters,Resource characteristics,Size,Chelicerae size,chelicerae
+Biotic filters,Resource characteristics,Size,Chelicerae size,chelicer
+Biotic filters,Resource characteristics,Size,Mandibular gape,mandib
+Biotic filters,Resource characteristics,Size,Proboscis diameter,probosc
+Biotic filters,Resource characteristics,Movement speed of prey,Fang length,fang
+Biotic filters,Resource characteristics,Resource used (feeding),Mandible type,mandibl
+Biotic filters,Resource characteristics,Resource used (feeding),Clypeus length,clypeu
+Biotic filters,Resource characteristics,Resource used (feeding),"Dung utilization (roller, tunnel or dweller)",dung
+Biotic filters,Resource characteristics,Resource used (feeding),"Dung utilization (roller, tunnel or dweller)",roller
+Biotic filters,Resource characteristics,Resource used (feeding),"Dung utilization (roller, tunnel or dweller)",tunnel
+Biotic filters,Resource characteristics,Resource used (feeding),"Dung utilization (roller, tunnel or dweller)",dweller
+Biotic filters,Resource characteristics,Resource used (feeding),Foraging strategy (solitary or collective),solitar
+Biotic filters,Resource characteristics,Resource used (feeding),Foraging strategy (solitary or collective),collect
+Biotic filters,Resource characteristics,Resource used (feeding),Foraging strategy (solitary or collective),socia
+Biotic filters,Resource characteristics,Resource used (feeding),N requirement,nitrogen
+Biotic filters,Resource characteristics,Resource used (feeding),Number of maxillary palpal segment,maxilar
+Biotic filters,Resource characteristics,Resource used (feeding),Number of maxillary palpal segment,palp
+Biotic filters,Resource characteristics,Prey encountered,Hunting strategy,hunt
+Biotic filters,Resource characteristics,Prey encountered,Hunting strategy,prey
+Biotic filters,Resource characteristics,Prey encountered,Hunting strategy,predat
+Biotic filters,Resource characteristics,Prey encountered,Shape of legs,leg
+Biotic filters,Resource characteristics,Prey encountered,Web architecture,web
+Biotic filters,Resource characteristics,Prey encountered,Web architecture,orb
+Biotic filters,Resource characteristics,Prey encountered,Web architecture,radi
+Biotic filters,Resource characteristics,Trophic level,Stable isotopes,isotop
+Biotic filters,Resource characteristics,Type of plant used,Mandibular morphology,mandibl
+Biotic filters,Resource characteristics,Part of plant used,Sucking/chewing,mandibl
+Biotic filters,Resource characteristics,Part of plant used,Sucking/chewing,suck
+Biotic filters,Resource characteristics,Part of plant used,Sucking/chewing,chew
+Biotic filters,Resource characteristics,Part of plant used,Sucking/chewing,probosc
+Biotic filters,Resource characteristics,Resource localization,Eye size,eye
+Biotic filters,Resource characteristics,Resource localization,Antennae length,antennae
+Biotic filters,Defense mechanism,Predator avoidance,Jumping apparatus,jump
+Biotic filters,Defense mechanism,Predator avoidance,Scales,scale
+Biotic filters,Defense mechanism,Predator avoidance,Oviposition place*,Oviposit
+Biotic filters,Defense mechanism,Predator avoidance,"Endophyte, endoparasite",endophy
+Biotic filters,Defense mechanism,Predator avoidance,"Endophyte, endoparasite",endoparas
+Biotic filters,Defense mechanism,Predator avoidance,Borrowing*,borrow
+Biotic filters,Defense mechanism,Predator avoidance,Borrowing*,excavat
+Biotic filters,Defense mechanism,Predator avoidance,Borrowing*,dig
+Biotic filters,Defense mechanism,Predator avoidance,Volvation,volv
+Biotic filters,Defense mechanism,Predator avoidance,Wing marking,marki
+Biotic filters,Defense mechanism,Predator avoidance,Wing marking,wing
+Biotic filters,Defense mechanism,Chemical defense,Pseudocelli,pseudocell
+Biotic filters,Defense mechanism,Chemical defense,Pseudocelli,ocell
+Biotic filters,Defense mechanism,Physical defense,Spine number or length,spine
+Biotic filters,Sound defense,Resource used (non-feeding),Nest rent or self excavated,nest
+Biotic filters,Sound defense,Resource used (non-feeding),Cleptoparasitism and social parasitism,cleptoparasit
+Biotic filters,Sound defense,Resource used (non-feeding),Cleptoparasitism and social parasitism,parasit
+Biotic filters,Sound defense,Resource used (non-feeding),Cleptoparasitism and social parasitism,eusocial
+Biotic filters,Sound defense,Resource used (non-feeding),Cleptoparasitism and social parasitism,social
+Biotic filters,Sound defense,Resource used (non-feeding),Inquilinism,inquilin
+Biotic filters,Sound defense,Resource used (non-feeding),Material used for the nest,nest
+Biotic filters,Sound defense,Resource used (non-feeding),Slavers / Dominance behavior,slav
+Biotic filters,Sound defense,Resource used (non-feeding),Slavers / Dominance behavior,queen
+Biotic filters,Sound defense,Resource used (non-feeding),Slavers / Dominance behavior,worke
+Biotic filters,Sound defense,Resource used (non-feeding),Slavers / Dominance behavior,cast
+Effect traits,Resource partitioning (23),Resources used,Eye size,eye
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,hunt
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,search
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,prey
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,paralize
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,venom
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,inject
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,insert
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,bait
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,lure
+Effect traits,Resource partitioning (23),Resources used,Hunting strategy,camouflag
+Effect traits,Resource partitioning (23),Resources used,Circadian activity,circad
+Effect traits,Resource partitioning (23),Resources used,Circadian activity,dayl
+Effect traits,Resource partitioning (23),Resources used,Circadian activity,period
+Effect traits,Resource partitioning (23),Resources used,Breeding period,breedi
+Effect traits,Resource partitioning (23),Resources used,Breeding period,offspring
+Effect traits,Resource partitioning (23),Resources used,Activity period,activ
+Effect traits,Resource partitioning (23),Resources used,Antenna length,antenna
+Effect traits,Resource partitioning (23),Visited flowers,Body size,body
+Effect traits,Resource partitioning (23),Visited flowers,Body size,length
+Effect traits,Resource partitioning (23),Visited flowers,Body size,wide
+Effect traits,Resource partitioning (23),Visited flowers,Foraging period,eati
+Effect traits,Resource partitioning (23),Visited flowers,Foraging period,activ
+Effect traits,Resource partitioning (23),Visited flowers,Foraging period,forag
+Effect traits,Resource partitioning (23),Visited flowers,Tongue length,tongue
+Effect traits,Resource partitioning (23),Plants used,Incisive strength,incisive
+Effect traits,Resource partitioning (23),Plants used,Molar strength,molar
+Effect traits,Resource partitioning (23),Niche separation,Circadian activity,circad
+Effect traits,Efficiency (19),Foraging,Number of flowers visited per minute,flower
+Effect traits,Efficiency (19),Foraging,Number of flowers visited per minute,visit
+Effect traits,Efficiency (19),Foraging,Number of flowers visited per minute,pollinat
+Effect traits,Efficiency (19),Foraging,Number of flowers visited per minute,harvest
+Effect traits,Efficiency (19),Foraging,Contact with stigma,stigma
+Effect traits,Efficiency (19),Foraging,Femoral width*,femora
+Effect traits,Efficiency (19),Foraging,Inter-tegular distance*,tegula
+Effect traits,Efficiency (19),Foraging,Optimal temperature,temperatur
+Effect traits,Efficiency (19),Foraging,Optimal temperature,optim
+Effect traits,Efficiency (19),Decomposition rate,Body size*,size
+Effect traits,Efficiency (19),Decomposition rate,Body size*,body
+Effect traits,Efficiency (19),Decomposition rate,Assimilation efficiency,assimilati
+Effect traits,Efficiency (19),Decomposition rate,Assimilation efficiency,decompos
+Effect traits,Efficiency (19),Decomposition rate,Consumption rate,comsump
+Effect traits,Efficiency (19),Feeding rate,Body size*,size
+Effect traits,Efficiency (19),Feeding rate,Body size*,mandibl
+Effect traits,Efficiency (19),Pollination speed,Time spent per flower,visitation
+Effect traits,Efficiency (19),Pollination speed,Time spent per flower,flower
+Effect traits,Efficiency (19),Successful pollination,Body size*,size
+Effect traits,Efficiency (19),Successful pollination,Body size*,length
+Effect traits,Efficiency (19),Successful pollination,Hairiness,hair
+Effect traits,Efficiency (19),Ingestion rate,Stoichiometry (C:N ratio),stoichiometr
+Effect traits,Efficiency (19),Ingestion rate,Stoichiometry (C:N ratio),carbon
+Effect traits,Efficiency (19),Ingestion rate,Stoichiometry (C:N ratio),nitrog
+Effect traits,Efficiency (19),Plant growth,Borrowing*,borrow
+Effect traits,Efficiency (19),Microbial activity,Feces hygroscopicity,feces
+Effect traits,Efficiency (19),Microbial activity,Feces particle size,feces
+Effect traits,Efficiency (19),Microbial activity,Feces surface area,feces
+Effect traits,Efficiency (19),Size of ingested particles,Density of teeth on pectinate lamellae,teeth
+Effect traits,Efficiency (19),Size of ingested particles,Density of teeth on pectinate lamellae,pectina
+Effect traits,Efficiency (19),Size of ingested particles,Density of teeth on pectinate lamellae,lamella
+Effect traits,Efficiency (19),Way of crushing particles,Characteristic of molar plate,molar
+Effect traits,Efficiency (19),Way of crushing particles,Characteristic of molar plate,chew
+Function undescribed,Morphometries,Pronotum,Pronotum width,Pronotum
+Function undescribed,Morphometries,Pronotum,Pronotum height,Pronotum
+Function undescribed,Morphometries,Pronotum,Pronotum length,Pronotum
+Function undescribed,Morphometries,Abdomen,Abdomen length,abdomen
+Function undescribed,Morphometries,Abdomen,Abdomen width,abdomen
+Function undescribed,Morphometries,Abdomen,Petiole height,petiole
+Function undescribed,Morphometries,Abdomen,Petiole length,petiole
+Function undescribed,Morphometries,Abdomen,Petiole width,petiole
+Function undescribed,Morphometries,Antennae,Scape length,scape
+Function undescribed,Morphometries,Wings,Elytra width,elytra
+Function undescribed,Morphometries,Wings,Elytra length,elytra
+Function undescribed,Morphometries,Plasticity,Size plasticity,size
+Function undescribed,Morphometries,Legs,Femur length/ width ratio,tibial
+Function undescribed,Morphometries,Legs,Tibial length,body
+Function undescribed,Morphometries,Thorax,Body depth,depth
+Function undescribed,Morphometries,Structures,Post antennal organ,post-antenn
+Function undescribed,Morphometries,Structures,Post antennal organ,antenn
+Function undescribed,Morphometries,Structures,Pollen collection organ,pollen
+Function undescribed,Morphometries,Structures,Pollen collection organ,tube
+Function undescribed,Morphometries,Structures,Pollen collection organ,collect
+Function undescribed,Morphometries,Structures,Pollen collection organ,setae
+Function undescribed,Morphometries,Structures,Pteromorphae,pteromorphae
+Function undescribed,Morphometries,Structures,Seta type,seta
+Function undescribed,Morphometries,Structures,Seta type,setae
+Function undescribed,Morphometries,Structures,Antennal organ,antenna
+Function undescribed,Morphometries,Structures,Molar tuft [Y/N],tuft
+Function undescribed,Morphometries,Structures,Number of labial palpal segments,palpal
+Function undescribed,Morphometries,Structures,Number of labial palpal segments,labial
+Function undescribed,Morphometries,Structures,Number of labial palpal segments,segment
+Function undescribed,Morphometries,Structures,Number of teeth on mandibles,teeth
+Function undescribed,Morphometries,Structures,Number of teeth on mandibles,mandibl
+Function undescribed,Morphometries,Structures,Number of teeth on pectinate lamellae,teeth
+Function undescribed,Morphometries,Structures,Number of teeth on pectinate lamellae,pectinate
+Function undescribed,Morphometries,Structures,Number of teeth on pectinate lamellae,lamellae
+Function undescribed,Morphometries,Structures,Number of vesicles per post antennal organ,vesicle
+Function undescribed,Morphometries,Structures,Number of vesicles per post antennal organ,post-antenn
+Function undescribed,Morphometries,Sociality,Level of sociality,social
+Function undescribed,Morphometries,Sociality,Immature solitary/ gregarious,immatur
+Function undescribed,Morphometries,Sociality,Immature solitary/ gregarious,solitar
+Function undescribed,Morphometries,Sociality,Immature solitary/ gregarious,gregari
+Function undescribed,Morphometries,Sociality,Immature solitary/ gregarious,socia
+Function undescribed,Morphometries,Sociality,Nymph with or without cocoon,nymph
+Function undescribed,Morphometries,Sociality,Nymph with or without cocoon,cocoon
+Function undescribed,Morphometries,Color,Body color,body
+Function undescribed,Morphometries,Color,Body color,color
+Function undescribed,Morphometries,Color,Body color,colour
+Function undescribed,Morphometries,Color,Body color,colorat
+Function undescribed,Morphometries,Color,Body color,pigment
+Function undescribed,Morphometries,Color,Leg color,leg
+Function undescribed,Morphometries,Color,Leg color,color
+Function undescribed,Morphometries,Color,Leg color,colour
+Function undescribed,Morphometries,Color,Leg color,colorat
+Function undescribed,Morphometries,Color,Leg color,pigment
+Function undescribed,Morphometries,Color,Melanic form present,melanic
+Function undescribed,Morphometries,Shape,Body shape,body
+Function undescribed,Morphometries,Shape,Shape of dentes,dent
+Function undescribed,Morphometries,Shape,Shape of the pronotum,pronotum
+Function undescribed,Morphometries,Behavior,Overwintering place,winter
