@@ -12,7 +12,7 @@ source("Functions.R")
 
 ### Start search
 
-#BatchSearchPlos("ecuador") ## Example for IBS
+#BatchSearchPlos("ecuador") ## Case Example showed at IBS conference
 
 mined3 <- readRDS("ecuador.RDS") ## Load the RDS file 
 textMine <- mined3$value
@@ -22,7 +22,7 @@ textMine <- mined3$value
 AnnotText <- lapply(1:length(mined3$value), 
                     function(x) 
                       annotateText(mined3[x,],
-                                   udpipe_load_model(models[1])))
+                                   udpipe_load_model("Models/english-ewt-ud-2.3-181115.udpipe")))
 
 anotaMine(AnnotText[[1]], 4)
 mined3$value <- droplevels(mined3$value)
