@@ -1,5 +1,4 @@
-### Tryouts to programatically find knowledge gaps and global distribution of knowldege 
-
+### Biodiversity Observations Miner: R Package development outside of the original shiny environment
 ## Gabriel Muñoz 
 # Jun 2019 
 
