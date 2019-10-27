@@ -1,5 +1,6 @@
 # BiObsMineR
-Biodiversity Observations Miner R Package. 
+
+Biodiversity Observations Miner from GUI to a R Package. 
 
 Functions to automatically anotate text on biodiversity by linking together species names with ontologies. 
 Includes functions to  search and extract text in batch from the Public Library of Science (PLOS). 
